@@ -1,0 +1,1 @@
+void printMap(int **mapData, int rows, int cols,int* CrtCoord, int viewRange, char playerFace, int stepCount);

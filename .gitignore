@@ -1,0 +1,6 @@
+*.o
+maze
+linkedlistTest
+*.dSYM/
+.DS_Store
+*.swp
